@@ -1,0 +1,20 @@
+{
+    "client": "Thunder Client",
+    "environmentName": "test-env",
+    "dateExported": "2024-02-18T09:19:45.484Z",
+    "version": "1.0",
+    "variables": [
+        {
+            "name": "token",
+            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3QzQHlvcG1haWwuY29tIiwidXNlcklkIjoyLCJpYXQiOjE3MDgyNDM0NTQsImV4cCI6MTcwODI0NzA1NH0.F4l0ovkyn8tNX0vjkLVLmk-akYPUVZLk_fHnP544Dmk"
+        },
+        {
+            "name": "URL",
+            "value": "http://localhost:3000"
+        },
+        {
+            "name": "refresh_token",
+            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsImVtYWlsIjoidGVzdDNAeW9wbWFpbC5jb20iLCJpYXQiOjE3MDgyNDMzMjAsImV4cCI6MTcwODI0MzUwMH0.d_N-D0WuQ3LmOyTtJibepy5mQx8XyC9Wkgp15ReK690"
+        }
+    ]
+}
